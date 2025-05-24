@@ -51,9 +51,32 @@ npx playwright test tests/zealy-ui.spec.js
 
 > Ensure Chromium is installed via `npx playwright install` if not already available.
 
+
 ## 📸 Screenshots
 
-All screenshots from each test step are stored in `screenshots/zealy/`.
+### Step 1 – Main Page
+![Step 1 – Main Page](screenshots/zealy/step1_main.png)
+
+### Step 2 – Mission Open
+![Step 2 – Mission Open](screenshots/zealy/step2_mission_open.png)
+
+### Step 3 – Connect to Zealy
+![Step 3 – Connect to Zealy](screenshots/zealy/step3_connect.png)
+
+### Step 4 – Back to Main
+![Step 4 – Back to Main](screenshots/zealy/step4_back_to_main.png)
+
+### Step 5 – Sprint Tab
+![Step 5 – Sprint Tab](screenshots/zealy/step5_sprint.png)
+
+### Step 6 – Back to Main After Sprint
+![Step 6 – Back to Main After Sprint](screenshots/zealy/step6_back_to_main_after_sprint.png)
+
+### Step 7 – Vote Tab
+![Step 7 – Vote Tab](screenshots/zealy/step7_vote.png)
+
+### Step 8 – Back to Main After Vote
+![Step 8 – Back to Main After Vote](screenshots/zealy/step8_back_to_main_after_vote.png)
 
 ---
 
